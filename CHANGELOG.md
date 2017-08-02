@@ -6,4 +6,4 @@
 
 # 0.1.1
 
-- Integrating with Travis CI
+- Integrated build with Travis CI

@@ -4,7 +4,7 @@ maintainer_email 'ashutosh_gupta@apple.com'
 license 'Apache-2.0'
 description 'Installs/configures a simple web site using the Nginx web server'
 long_description IO.read("#{File.dirname(__FILE__)}/README.md")
-version '1.0.0'
+version '1.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
